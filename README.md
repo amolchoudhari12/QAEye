@@ -61,7 +61,3 @@ Collaborated with **Cybage Software Pvt. Ltd.** and deployed in production from 
 
 > *“A tool that brings transparency, accountability, and control to software quality assurance.”*
 
----
-
-*Archived on GitHub for IIT Bombay application review.*  
-*Repository Link:* `https://github.com/[your-username]/QA-Eye-Dissertation`
