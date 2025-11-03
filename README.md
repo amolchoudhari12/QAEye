@@ -6,7 +6,7 @@
 **University:** University of Pune  
 **Year:** 2005–2006  
 **Guide:** Prof. (Dr.) S. A. Kulkarni  
-**Industry Mentor:** Mr. Sandeep Pawar (QA Project Manager, Cybage Software Pvt. Ltd.)
+**Industry Mentor:** Mr. Sandeep Pawar (QA Project Manager)
 **Sponsored by:** Cybage Software Pvt. Ltd. Pune 
 
 ---
