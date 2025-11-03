@@ -57,6 +57,7 @@ Collaborated with **Cybage Software Pvt. Ltd.**.
 ## Full Report
 
 📄 [`ME-QAEye.pdf`](ME-QAEye.pdf) *(126 pages)*
+📄 [`ME-QAEye_compressed.pdf`](ME-QAEye_compressed.pdf) *(126 pages)*
 
 ---
 
