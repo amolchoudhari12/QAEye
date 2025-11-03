@@ -8,7 +8,7 @@
 **Guide:** Prof. (Dr.) S. A. Kulkarni  
 **Industry Mentor:** Mr. Sandeep Pawar (QA Project Manager, Cybage Software Pvt. Ltd.)
 **Sponsored by:** Cybage Software Pvt. Ltd. Pune 
-**Companay website:** https://www.cybage.com/
+
 ---
 
 ## Project Overview
