@@ -14,7 +14,7 @@
 
 **QA Eye** is a **Quality Assurance Management System** developed as my M.E. dissertation. It automates **SDLC and QA workflows** — requirement tracking, test planning, execution, defect management, and real-time reporting.
 
-Collaborated with **Cybage Software Pvt. Ltd.** and deployed in production from March 2006.
+Collaborated with **Cybage Software Pvt. Ltd.**.
 
 ---
 
