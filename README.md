@@ -61,5 +61,6 @@ Collaborated with **Cybage Software Pvt. Ltd.**.
 
 ---
 
+:eye: QA Eye
 > *“A tool that brings transparency, accountability, and control to software quality assurance.”*
 
