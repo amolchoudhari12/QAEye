@@ -1,10 +1,9 @@
-# QA Eye - M.Tech Dissertation Project
+# QA Eye - M.E. Dissertation Project
 
-**Author:** Amol V. Choudhari  
+**Author:** Amol Vilas Choudhari  
 **Degree:** M.E. Computer Engineering  
 **Institution:** Pune Institute of Computer Technology (PICT), Pune  
 **University:** University of Pune  
-**Year:** 2005–2006  
 **Guide:** Prof. (Dr.) S. A. Kulkarni  
 **Industry Mentor:** Mr. Sandeep Pawar (QA Project Manager)
 **Sponsored by:** Cybage Software Pvt. Ltd. Pune 
@@ -13,9 +12,9 @@
 
 ## Project Overview
 
-**QA Eye** is a **Quality Assurance Management System** developed as my M.Tech dissertation. It automates **SDLC and QA workflows** — requirement tracking, test planning, execution, defect management, and real-time reporting.
+**QA Eye** is a **Quality Assurance Management System** developed as my M.E. dissertation. It automates **SDLC and QA workflows** — requirement tracking, test planning, execution, defect management, and real-time reporting.
 
-Collaborated with **Cybage Software Pvt. Ltd.** and deployed in production from April 2005 to March 2006.
+Collaborated with **Cybage Software Pvt. Ltd.** and deployed in production from March 2006.
 
 ---
 
