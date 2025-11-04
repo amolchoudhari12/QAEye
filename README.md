@@ -6,7 +6,6 @@
 **University:** University of Pune  
 **Guide:** Prof. (Dr.) S. A. Kulkarni  
 **Industry Mentor:** Mr. Sandeep Pawar (QA Project Manager)  
-**Sponsored by:** Cybage Software Pvt. Ltd. Pune   
 **Source code:** Copytight of source code belongs to Cybage Software Hence it is not avaiable here 
 
 ---
